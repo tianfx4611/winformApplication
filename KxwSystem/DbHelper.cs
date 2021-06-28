@@ -16,7 +16,7 @@ namespace KxwSystem
         /// 打开连接
         /// </summary>
         /// <returns></returns>
-        public static bool OpenConnection() 
+        public static bool OpenConnection()  
         {
             try
             {
